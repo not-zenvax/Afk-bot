@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "blackzone.play.hosting",
-    "port": '28550',
+    "port": 28550,
     "version": "",
     "try-creative": false
   },
