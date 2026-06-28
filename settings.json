@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "51.68.201.17",
-    "port": 28550,
+    "ip": "blackzone.play.hosting",
+    "port": 25565,
     "version": "",
     "try-creative": false
   },
